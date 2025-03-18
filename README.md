@@ -53,5 +53,5 @@ The project defines the following interfaces for type safety:
 
 Aparche 2.0
 
-2023 XYZ, Inc.
+2022 XYZ, Inc.
 
