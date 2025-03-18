@@ -48,6 +48,10 @@ The project defines the following interfaces for type safety:
 - **Rate**: Represents the interest rate.
 - **Time**: Represents the time period for which the interest is calculated.
 
+
 ## License
 
 Aparche 2.0
+
+2022 XYZ, Inc.
+
